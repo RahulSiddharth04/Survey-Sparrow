@@ -1,0 +1,7 @@
+[
+  { "title": "Team Meeting", "date": "2025-06-25", "time": "10:00", "duration": "1h" },
+  { "title": "Lunch Break", "date": "2025-06-25", "time": "12:30", "duration": "1h" },
+  { "title": "Project Demo", "date": "2025-06-25", "time": "10:30", "duration": "1h" },
+  { "title": "Code Review", "date": "2025-06-27", "time": "15:00", "duration": "30m" }
+]
+
